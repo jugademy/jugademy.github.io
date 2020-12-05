@@ -28,7 +28,7 @@ twitter_username: poznanjug
 github_username:  jugademy
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
