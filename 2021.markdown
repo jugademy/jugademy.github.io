@@ -1,0 +1,7 @@
+---
+layout: page
+title: 2021
+permalink: /2021/
+---
+
+W 2021 startujemy z 4 sezonem JUGademy. Już niedługo więcej informacji.
