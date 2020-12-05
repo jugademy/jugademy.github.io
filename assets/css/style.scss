@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$orange: #F26A55;
+$blue: #3F6CB9;
+
+section.page-header {
+    background: $blue;
+    background-image: none;
+}
+
+section.main-content h1 {
+    color: $orange;
+}
