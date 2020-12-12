@@ -6,6 +6,10 @@
 $orange: #F26A55;
 $blue: #3F6CB9;
 
+.project-name > img {
+    max-width: 100%;
+}
+
 section.page-header {
     background: $blue;
     background-image: none;
