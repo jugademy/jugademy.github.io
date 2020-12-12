@@ -11,6 +11,8 @@ section.page-header {
     background-image: none;
 }
 
-section.main-content h1 {
-    color: $orange;
+@for $i from 1 through 6 {
+    section.main-content h#{$i} {
+        color: $orange
+    }
 }
