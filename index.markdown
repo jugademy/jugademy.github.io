@@ -1,12 +1,6 @@
 ---
-layout: default
+layout: jugademy
 ---
-
-# Co to JUGademy?
-
-JUGademy to seria spotkań organizowanych przez społeczność [Poznań JUG](https://www.meetup.com/pl-PL/Poznan-Java-User-Group/).
-Jest to szansa dla bardziej doświadczonych programistek i programistów, aby mogli podzielić 
-się wiedzą z młodszymi koleżankami i kolegami.
 
 # Sezon 4
 
