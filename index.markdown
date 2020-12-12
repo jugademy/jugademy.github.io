@@ -6,7 +6,7 @@ layout: jugademy
 
 W 2021 roku startujemy z 4 sezonem. Już niedługo podzielimy się z Wami informacjami, kogo i gdzie
 będziecie mogli posłuchać. Sezon ten jest w pełni zdalny, ale nie martwcie się. Także tym razem
-przewidzieliśmy nagrody dla najbardziej aktywnych uczestników! Więcej informacji już wkrótce!
+przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Więcej informacji już wkrótce!
 
 # Terminarz
 
@@ -19,3 +19,12 @@ przewidzieliśmy nagrody dla najbardziej aktywnych uczestników! Więcej informa
     </section>
     {% endfor %}
 </div>
+
+# Nagrody
+
+- kody na [Pyszne.pl](https://pyszne.pl)
+- książy wydawnictwa [Helion](https://helion.pl/)
+
+# Sponsorzy
+
+[![Allegro Tech](https://allegro.tech/img/allegro-tech.svg)](https://allegro.tech)
