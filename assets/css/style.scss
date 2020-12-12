@@ -13,6 +13,10 @@ section.page-header {
 
 @for $i from 1 through 6 {
     section.main-content h#{$i} {
-        color: $orange
+        color: $orange;
+
+        > small {
+            color: $blue;
+        }
     }
 }
