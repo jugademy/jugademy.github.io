@@ -23,7 +23,7 @@ przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Wi�
 # Nagrody
 
 - kody na [Pyszne.pl](https://pyszne.pl)
-- książy wydawnictwa [Helion](https://helion.pl/)
+- książki wydawnictwa [Helion](https://helion.pl/)
 
 # Sponsorzy
 
