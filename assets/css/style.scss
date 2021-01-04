@@ -25,7 +25,21 @@ section.page-header {
     }
 }
 
-.main-content a > img {
-    max-width: 30%;
-    min-width: 250px;
+.main-content {
+    p {
+        text-align: justify;
+    }
+
+    a > img {
+        max-width: 30%;
+        min-width: 250px;
+    }
+}
+
+.meeting-author {
+    color: $blue
+}
+
+h2 > a {
+    color: inherit;
 }

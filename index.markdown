@@ -12,10 +12,14 @@ przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Wi�
 
 <div>
     {% for meeting in site.meetings %}
-    <h2>{{ meeting.meeting_title }} <small>{{ meeting.meeting_date }}</small></h2>
+    <h2 id="{{meeting.meeting_title | slugify }}">
+        <a href="#{{ meeting.meeting_title | slugify }}">{{meeting.meeting_title}}</a>
+        <small>{{ meeting.meeting_date }}</small>
+    </h2>
+    
     <section>
-    <p>{{ meeting.meeting_author }}</p>
     {{ meeting.content | markdownify }}
+    Prezentuje <span class="meeting-author">{{ meeting.meeting_author }}</span> {{ meeting.meeting_author_bio }}
     </section>
     {% endfor %}
 </div>
