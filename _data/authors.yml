@@ -1,0 +1,59 @@
+jacek.grobelny:
+  name: Jacek Grobelny
+  bio: >
+    najlepiej czuje się w czeluściach backendu sytemów informatycznych. Lubi rozwiązywać problemy szczególnie 
+    w momencie, gdy zaczynają powstawać o nich memy. Tata dwóch urwisów. W wolnym czasie chłonie, 
+    choć nie bezkrytycznie, wszelkie przejawy popkultury ze szczególną słabością do dwunastej muzy.
+
+patryk.prominski:
+  name: Patryk Promiński
+  bio: >
+    programista w Allegro, ceniący sobie możliwości rozwoju i dzielenia się wiedzą z innymi.
+
+pawel.warczynski:
+  name: Paweł Warczyński
+  bio: >
+    starszy programista w Grupie Allegro. Zwolennik pragmatyzmu i pozytywnej dociekliwości.
+
+pawel.jurczenko:
+  name: Paweł Jurczenko
+  bio: >
+    inżynier oprogramowania w Allegro. Interesuje się systemami rozproszonymi, przetwarzaniem współbieżnym oraz programowaniem funkcyjnym.
+
+przemek.gumula:
+  name: Przemek Gumuła
+  bio: >
+    w Allegro pracuje w backendzie, chociaż lubi zapuszczać się w czeluści Big Data i frontendu. 
+    Poznaje głębiny systemów finansowych i oznaczeń na ofertach, a poza tym jest fanem biegów z przeszkodami.
+
+krystian.adamski:
+  name: Krystian Adamski
+  bio: >
+    inżynier oprogramowania lubiący mikroserwisy, TDD, DDD i NoSQL.
+
+bartosz.balukiewicz:
+  name: Bartosz Balukiewicz
+  bio: >
+    inżynier oprogramowania w warszawskim Allegro od dwóch lat, a zawodowo JVM zajmuje się pięć. 
+    Tworzył Allegro Smart!, a ostatnio nurkuje w świat big data przewidując czasy dostawy.
+
+aleksander.ihnatowicz:
+  name: Aleksander Ihnatowicz
+  bio: >
+    starszy inżynier oprogramowania i team leader w Allegro. Od 7 lat programuje w językach JVM (Java, Kotlin). Lubi żeglować.
+
+marek.walkowiak:
+  name: Marek Walkowiak
+  bio: >
+    programista w Allegro stawiający nieśmiertelne koncepty ponad przemijalne frameworki i technologie.
+
+karol.teske:
+  name: Karol Teske
+  bio: >
+    świeżo upieczony inżynier. Od dwóch lat poznający tajniki wszystkiego co związanego z Allegro API. Ostatnio zakochany w Golangu.
+
+aleksander.zelazny:
+  name: Aleksander Żelazny
+  bio: >
+    programista Allegro na co dzień zajmujący się sprawami API. Entuzjasta dzielenia się wiedzą i wszystkiego co ciekawe. 
+    W wolnym czasie stara się zwiedzić cały świat.
