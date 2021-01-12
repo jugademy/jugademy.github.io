@@ -29,7 +29,7 @@ przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Wi�
         {% endfor %}
         
         {% if meeting.meeting_link %}
-            <p>{{ meeting.meeting_link }}</p>
+            {{ meeting.meeting_link | markdownify }}
         {% endif %}
     </section>
     {% endfor %}
