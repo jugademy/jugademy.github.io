@@ -40,6 +40,8 @@ przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Wi�
 - kody na [Pyszne.pl](https://pyszne.pl)
 - książki wydawnictwa [Helion](https://helion.pl/)
 
-# Sponsorzy
+# Partnerzy
 
 [![Allegro Tech](https://allegro.tech/img/allegro-tech.svg)](https://allegro.tech)
+
+[![Politechnika Poznańska](https://www.put.poznan.pl/themes/newputpoznan/images/logo.png)](https://www.put.poznan.pl/)
