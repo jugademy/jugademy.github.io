@@ -42,6 +42,6 @@ przewidzieliśmy [nagrody](#nagrody) dla najbardziej aktywnych uczestników! Wi�
 
 # Partnerzy
 
-[![Allegro Tech](https://allegro.tech/img/allegro-tech.svg)](https://allegro.tech)
+[![Allegro Tech](https://allegro.tech/images/logo.svg)](https://allegro.tech)
 
 [![Politechnika Poznańska](/assets/img/politechnika-poznanska.png)](https://www.put.poznan.pl/)
