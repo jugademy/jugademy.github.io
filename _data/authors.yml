@@ -49,10 +49,15 @@ marek.walkowiak:
 karol.teske:
   name: Karol Teske
   bio: >
-    świeżo upieczony inżynier. Od dwóch lat poznający tajniki wszystkiego co związanego z Allegro API. Ostatnio zakochany w Golangu.
+    inżynier w zespole API. Od trzech lat poznający tajniki wszystkiego co związanego z Allegro API. Ostatnio zakochany w Golangu.
 
 aleksander.zelazny:
   name: Aleksander Żelazny
   bio: >
     programista Allegro na co dzień zajmujący się sprawami API. Entuzjasta dzielenia się wiedzą i wszystkiego co ciekawe. 
     W wolnym czasie stara się zwiedzić cały świat.
+
+bartosz.osipiuk:
+  name: Bartosz Osipiuk
+  bio: > 
+    inżynier oprogramowania w Allegro w zespole API. Po pracy gra na gitarze basowej, gotuje, lub je to, co ugotował.
