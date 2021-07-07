@@ -1,9 +1,12 @@
 ---
 meeting_date: 3 lutego
 meeting_authors: [patryk.prominski]
-meeting_title: Czysty kod - to wcale nie jest takie trudne!
-meeting_link: Zapraszamy do obejrzenia materiału ze spotkania na [YouTube](https://www.youtube.com/watch?v=Etl1icZ_El4)!
+title: Czysty kod - to wcale nie jest takie trudne!
+video: Etl1icZ_El4
+event: 276071911
 old: true
+layout: meeting
+categories: [sezon-4]
 ---
 
 Czy wiesz co oznacza YAGNI, DRY, KISS lub SOLID? A może chcesz zrozumieć jak stosować te reguły w praktyce? 

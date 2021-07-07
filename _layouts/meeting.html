@@ -1,0 +1,37 @@
+---
+layout: jugademy
+---
+<h2>
+  {{ page.title }}
+    <small>{{ page.meeting_date }}</small>
+</h2>
+{{ content | markdownify }}
+
+{% for author in page.meeting_authors %}
+    {% if site.data.authors[author] %}
+    {% assign meeting_author = site.data.authors[author] %}
+
+    <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
+
+    {% endif %}
+{% endfor %}
+
+{% if page.video %}
+<div class="youtube-wrapper">
+  <iframe src="https://www.youtube.com/embed/{{page.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% endif %}
+
+{% if page.event %}
+  <p>
+    {% if page.old %}
+      Zobacz spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">Meetup</a>. 
+      {% else %}
+      Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">Meetup</a>!
+    {% endif %}
+  </p>
+{% endif %}
+
+<p>
+  Powrót do <a href="/">strony głównej</a>.
+</p>

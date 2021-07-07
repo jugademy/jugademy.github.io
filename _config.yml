@@ -36,7 +36,10 @@ github:
   is_project_page: false
 
 collections:
-  - meetings
+  meetings:
+    output: true
+    permalink: /spotkania/:categories/:title
+    layout: meeting
 
 # Exclude from processing.
 # The following items will not be processed, by default.

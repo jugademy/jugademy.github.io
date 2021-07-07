@@ -1,9 +1,12 @@
 ---
 meeting_date: 31 marca
 meeting_authors: [marek.walkowiak]
-meeting_title: Reaktywne aplikacje od podstaw
-meeting_link: Zapraszamy do obejrzenia materiału ze spotkania na [YouTube](https://www.youtube.com/watch?v=ec_BxEstCRs)!
+title: Reaktywne aplikacje od podstaw
+video: ec_BxEstCRs
+event: 277230907
 old: true
+layout: meeting
+categories: [sezon-4]
 ---
 
 Programowanie Reaktywne kontynuuje bicie rekordów popularności. Wydaje się ono być teraz wszędzie - żaden szanujący się framework czy biblioteka nie może już pozwolić sobie na niebycie choć w części zgodnym z tym paradygmatem. 

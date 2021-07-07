@@ -5,6 +5,7 @@
 
 $orange: #F26A55;
 $blue: #3F6CB9;
+$black: #606c71;
 
 .project-name > img {
     max-width: 100%;
@@ -40,6 +41,29 @@ section.page-header {
     color: $blue
 }
 
+.old-meetings {
+    a {
+        color: $black;
+    }
+}
+
 h2 > a {
     color: inherit;
+}
+
+
+.youtube-wrapper {
+    margin-top: 20px;
+    position: relative;
+    padding-bottom: 56.10%;
+    height: 0;
+    overflow: hidden;
+
+    > iframe, object, embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 }
