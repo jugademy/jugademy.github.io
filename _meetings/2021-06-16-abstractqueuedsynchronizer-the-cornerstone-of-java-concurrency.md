@@ -1,9 +1,10 @@
 ---
 meeting_date: 16 czerwca
 meeting_authors: [heinz.kabutz]
-meeting_title: "AbstractQueuedSynchronizer: The cornerstone of Java concurrency"
-meeting_link: Zapraszamy do zapisywania się na spotkanie na [Meetup](https://www.meetup.com/Poznan-Java-User-Group/events/278766700/)
+title: "AbstractQueuedSynchronizer: The cornerstone of Java concurrency"
+event: https://www.meetup.com/Poznan-Java-User-Group/events/278766700/
 old: false
+layout: meeting
 ---
 
 Java 5 offered a major overhaul of the way that Java programmers communicated between threads with the advent of the java.util.concurrent package. The most central class is the AbstractQueuedSynchronizer, used by most of the other synchronizers in the package. In this lesson, we learn how it works and how it was adapted to take us into a non-blocking future.

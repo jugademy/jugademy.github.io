@@ -13,61 +13,55 @@ Zobacz, co przed nami lub dowiedz się więcej o:
  - [Nagrody](#nagrody)
  - [Partnerzy](#partnerzy)
 
+{% assign new_posts = site.meetings | where: "old","false" %}
+{% assign old_post = site.meetings | where: "old","true" %}
+{% assign new_posts_size = new_posts | size %}
+{% assign old_posts_size = new_posts | size %}
+
+{% if new_posts_size > 0 %}
 # Nadchodzące spotkania
 
 <div>
-    {% assign new-posts = site.meetings | where: "old","false" %}
-    {% for meeting in new-posts %}
-    <section>
-        <h2 id="{{meeting.meeting_title | slugify }}">
-            <a href="#{{ meeting.meeting_title | slugify }}">{{meeting.meeting_title}}</a>
-            <small>{{ meeting.meeting_date }}</small>
-        </h2>
-        {{ meeting.content | markdownify }}
-        
-        {% for author in meeting.meeting_authors %}
-            {% if site.data.authors[author] %}
-            {% assign meeting_author = site.data.authors[author] %}
-
-            <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
-        
-            {% endif %}
-        {% endfor %}
-        
-        {% if meeting.meeting_link %}
-            {{ meeting.meeting_link | markdownify }}
-        {% endif %}
-    </section>
+    
+    {% for meeting in new_posts %}
+        {% include meeting.html meeting=meeting %}
     {% endfor %}
 </div>
+
+{% else %}
+
+# Za nami wszystkie spotkanie tego sezonu
+
+Do zobaczenia jesienią
+
+{% endif %}
+
+{% if old_post %}
 
 # Przeszłe prezentacje
 
 <div>
-    {% assign old-posts = site.meetings | where: "old","true" %}
-    {% for meeting in old-posts %}
-    <section>
-        <h2 id="{{meeting.meeting_title | slugify }}">
-            <a href="#{{ meeting.meeting_title | slugify }}">{{meeting.meeting_title}}</a>
-            <small>{{ meeting.meeting_date }}</small>
-        </h2>
-        {{ meeting.content | markdownify }}
-        
-        {% for author in meeting.meeting_authors %}
-            {% if site.data.authors[author] %}
-            {% assign meeting_author = site.data.authors[author] %}
-
-            <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
-        
-            {% endif %}
-        {% endfor %}
-        
-        {% if meeting.meeting_link %}
-            {{ meeting.meeting_link | markdownify }}
-        {% endif %}
-    </section>
+    <ul>
+   
+    {% for meeting in old_post %}
+        <li>
+            <a href="{{ meeting.url }}">{{ meeting.title }} &ndash;
+            {% assign meeting_authors_size = meeting.meeting_authors | size %}
+            {% for author in meeting.meeting_authors %}
+                {% if site.data.authors[author] %}
+                {% assign meeting_author = site.data.authors[author] %}
+                <span class="meeting-author">
+                    {{ meeting_author.name }}{%if forloop.last == false %},{%endif%}
+                </span>
+                {% endif %}
+            {% endfor %}
+            </a>
+        </li>
     {% endfor %}
+    </ul>
 </div>
+
+{% endif %}
 
 # Nagrody
 
