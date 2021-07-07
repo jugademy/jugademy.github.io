@@ -1,0 +1,18 @@
+<section>
+    <h2>
+        <a href="{{ include.meeting.url }}">{{include.meeting.title}}</a>
+        <small>{{ include.meeting.meeting_date }}</small>
+    </h2>
+    {{ include.meeting.content | markdownify }}
+    
+    {% for author in include.meeting.meeting_authors %}
+        {% if site.data.authors[author] %}
+        {% assign meeting_author = site.data.authors[author] %}
+
+        <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
+    
+        {% endif %}
+    {% endfor %}
+    
+    Zapraszamy do zapisywania się na spotkanie na <a href="{{ include.meeting.event }}">Meetup</a>!
+</section>

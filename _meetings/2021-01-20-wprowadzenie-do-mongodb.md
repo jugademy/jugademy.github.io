@@ -1,9 +1,10 @@
 ---
 meeting_date: 20 stycznia
 meeting_authors: [jacek.grobelny]
-meeting_title: Wprowadzenie do MongoDB
-meeting_link: Zapraszamy do obejrzenia materiału ze spotkania na [YouTube](https://www.youtube.com/watch?v=GwBsvfBwrAc)!
+title: Wprowadzenie do MongoDB
+video: GwBsvfBwrAc
 old: true
+layout: meeting
 ---
 
 Trudno nie zgodzić się ze stwierdzeniem, że gromadzimy coraz więcej danych. Relacyjne bazy, pośród wielu zalet, mają jedną wadę &ndash; słabo się skalują. Dlatego odpowiedzą na rosnące potrzeby są nierelacyjne bazy danych na czele z najpopularniejszą z nich &ndash; [MongoDB]. 
