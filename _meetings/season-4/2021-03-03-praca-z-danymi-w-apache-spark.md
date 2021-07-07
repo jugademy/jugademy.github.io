@@ -1,9 +1,12 @@
 ---
 meeting_date: 3 marca
 meeting_authors: [przemek.gumula]
-meeting_title: Praca z danymi w Apache Spark
-meeting_link: Zapraszamy do obejrzenia materiału ze spotkania na [YouTube](https://www.youtube.com/watch?v=11cWKCS7z4w)!
+title: Praca z danymi w Apache Spark
+video: 11cWKCS7z4w
+event: 276557456
 old: true
+layout: meeting
+categories: [sezon-4]
 ---
 W zawodowej pracy często na naszej drodze stają dane. Nie możemy przejść obok nich obojętnie, więc najlepszym wyjściem jest nauczyć się z nimi pracować. Jednak tylko najwięksi szczęściarze dostają idealnie uporządkowane dane w gotowej tabeli. 
 Co zrobić, jeśli mamy pecha i musimy zmieszać informacje pochodzące z [MongoDB], [MySQLa], a nawet plików tekstowych? Być może powinniśmy skorzystać z [Apache Sparka] - chętnie wykorzystywanego narzędzia do pracy z big data. 

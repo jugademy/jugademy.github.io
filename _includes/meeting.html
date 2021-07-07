@@ -1,0 +1,20 @@
+<section>
+    <h2>
+        <a href="{{ include.meeting.url }}">{{include.meeting.title}}</a>
+        <small>{{ include.meeting.meeting_date }}</small>
+    </h2>
+    {{ include.meeting.content | markdownify }}
+    
+    {% for author in include.meeting.meeting_authors %}
+        {% if site.data.authors[author] %}
+        {% assign meeting_author = site.data.authors[author] %}
+
+        <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
+    
+        {% endif %}
+    {% endfor %}
+    
+    {% if include.meeting.event %}
+    Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ include.meeting.event }}/">Meetup</a>!
+    {% endif %}
+</section>
