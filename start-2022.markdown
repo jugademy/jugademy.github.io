@@ -11,7 +11,7 @@ layout: jugademy
 ## Inaugracyjne spotkanie
 
 JUGademy w 2022 roku rozpoczyna się z przytupem! Zapraszamy na spotkanie, które odbędzie się
-**19.01.2022 o godz. 19:00**. Link do Meetup ju wkrótce!
+**19.01.2022 o godz. 19:00**. Link do Meetup już wkrótce!
 
 Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ekspertów jak:
 - Adam Dubiel
