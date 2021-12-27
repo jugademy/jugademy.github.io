@@ -11,7 +11,7 @@ layout: jugademy
 ## Inaugracyjne spotkanie
 
 JUGademy w 2022 roku rozpoczyna się z przytupem! Zapraszamy na spotkanie, które odbędzie się
-**19.01.2022 o godz. 19:00**. Link do Meetup już wkrótce!
+**19.01.2022 o godz. 19:00**. Zarezerwuj sobie miejsce już [dziś]! 
 
 Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ekspertów jak:
 - Adam Dubiel
@@ -30,6 +30,8 @@ Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ek
 Każde z nich będzie miało **5 minut, aby przekazać życiową lekcję dla początkujących
 programistek i programistów**. W tej niecodziennej konwencji chcemy dać Wam szansę
 czerpania z doświadczenia naszych gości pełnymi garściami.
+
+Rejestracja na wydarzenie na [Meetup]!
 
 ## Co czeka nas w 2022
 
@@ -62,3 +64,5 @@ Pełny harmonogram z prelegentami, tytułami i abstraktami już wkrótce!
 [Kubernetes]: https://kubernetes.io/
 [Apache Kafka]: https://kafka.apache.org/
 [Politechniki Poznańskiej]: https://www.put.poznan.pl/
+[Meetup]: https://www.meetup.com/pl-PL/Poznan-Java-User-Group/events/282896379/
+[dziś]: https://www.meetup.com/pl-PL/Poznan-Java-User-Group/events/282896379/
