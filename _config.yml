@@ -23,9 +23,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   JUGademy to seria spotkań podczas których doświadczeni programiści dzielą się
   swoją wiedzą z osobami, które rozpoczynają swoją karierę zawodową w IT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jugademy.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: poznanjug
 github_username:  jugademy
+locale: pl_PL
 
 # Build settings
 theme: jekyll-theme-cayman
