@@ -17,6 +17,7 @@ JUGademy w 2022 roku rozpoczyna się z przytupem! Zapraszamy na spotkanie, któr
 Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ekspertów jak:
 - Adam Dubiel
 - Grzegorz Piwowarek
+- Jakub Gutkowski
 - Jakub Nabrdalik
 - Jakub Pilimon
 - Jarosław Pałka
