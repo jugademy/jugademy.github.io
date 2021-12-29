@@ -35,6 +35,10 @@ czerpania z doświadczenia naszych gości pełnymi garściami.
 
 Rejestracja na wydarzenie na [Meetup]!
 
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2lrZmhjaWZlM3Q3MHVuMGNwczFvNjJiOW8ga2Fyb2wudGVza2VAYWxsZWdyby5wbA&amp;tmsrc=karol.teske%40allegro.pl">
+<img border="1" class="small-icon" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
+
 ## Co czeka nas w 2022
 
 Rok 2022 to rok, w którym wciąż straszy pandemia. Kolejny raz spędzimy go w większości online.
