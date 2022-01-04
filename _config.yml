@@ -27,6 +27,9 @@ url: "https://jugademy.eu" # the base hostname & protocol for your site, e.g. ht
 twitter_username: poznanjug
 github_username:  jugademy
 locale: pl_PL
+timezone: Europe/Warsaw
+encoding: UTF-8
+future: true
 
 # Build settings
 theme: jekyll-theme-cayman

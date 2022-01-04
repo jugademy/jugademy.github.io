@@ -9,7 +9,7 @@
         {% if site.data.authors[author] %}
         {% assign meeting_author = site.data.authors[author] %}
 
-        <p><span class="meeting-author">{{ meeting_author.name }}</span> &ndash; {{ meeting_author.bio }}</p>
+        {% include author.html author=meeting_author %}
     
         {% endif %}
     {% endfor %}
