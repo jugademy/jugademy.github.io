@@ -22,6 +22,7 @@ Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ek
 - Jakub Pilimon
 - Jarosław Pałka
 - Jarosław Ratajski
+- Magda Stożek
 - Mirosław Zelent
 - Olga Maciaszek-Sharma
 - Paulina Sadowska
