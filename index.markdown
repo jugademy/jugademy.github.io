@@ -4,16 +4,19 @@ layout: jugademy
 
 # Witaj
 
-Zobacz, co przed nami lub dowiedz się więcej o:
- - [planach na 2022 rok]
- - [przeszłych prezentacjach](#przeszłe-prezentacje)
- - [nagrodach dla uczestników](#nagrody-dla-uczestników)
- - [naszych partnerach](#partnerzy)
 
 {% assign new_posts = site.meetings | where: "old","false" %}
 {% assign old_post = site.meetings | where: "old","true" %}
 {% assign new_posts_size = new_posts | size %}
 {% assign old_posts_size = new_posts | size %}
+
+Zobacz, co przed nami lub dowiedz się więcej o:
+ - [planach na 2022 rok]
+{% if new_posts_size > 0 %}- [nadchodzących prezentacjach](#nadchodzące-spotkania){% endif %}
+ - [przeszłych prezentacjach](#przeszłe-prezentacje)
+ - [nagrodach dla uczestników](#nagrody-dla-uczestników)
+ - [naszych partnerach](#partnerzy)
+
 
 {% if new_posts_size > 0 %}
 # Nadchodzące spotkania
