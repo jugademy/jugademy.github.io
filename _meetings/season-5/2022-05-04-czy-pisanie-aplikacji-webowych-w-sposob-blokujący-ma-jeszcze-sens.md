@@ -1,7 +1,7 @@
 ---
 meeting_date: 4 maja
 meeting_authors: [piotr.ceranek]
-title: Blocking vs Non-blocking web server
+title: Czy pisanie aplikacji webowych w sposób blokujący ma jeszcze sens?
 old: false
 layout: meeting
 categories: [sezon-5]
