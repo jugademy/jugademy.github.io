@@ -1,6 +1,6 @@
 ---
 layout: jugademy
-image: assets/img/jugademy-start2022.png
+image: assets/img/cover/start2022.png
 ---
 
 # JUGademy w 2022 roku

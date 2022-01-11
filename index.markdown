@@ -1,5 +1,6 @@
 ---
 layout: jugademy
+image: assets/img/cover/index.png
 ---
 
 # Witaj
