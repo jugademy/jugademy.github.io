@@ -1,6 +1,6 @@
 ---
 meeting_date: 9 marca
-meeting_authors: [mateusz.krzeszkowiak]
+meeting_authors: [mateusz.krzeszowiak]
 title: Wydajna strona internetowa - co, jak, dlaczego?
 old: false
 layout: meeting
