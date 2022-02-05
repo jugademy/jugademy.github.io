@@ -18,6 +18,9 @@ Zobacz, co przed nami lub dowiedz się więcej o:
  - [nagrodach dla uczestników](#nagrody-dla-uczestników)
  - [naszych partnerach](#partnerzy)
 
+# Czym jest JUGademy?
+
+{% include youtube.html id="AazyMC1yPrc" title="Czym jest JUGademy?" %}
 
 {% if new_posts_size > 0 %}
 # Nadchodzące spotkania
