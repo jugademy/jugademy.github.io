@@ -11,16 +11,15 @@ image: assets/img/cover/start2022.png
 
 ## Inaugracyjne spotkanie
 
-JUGademy w 2022 roku rozpoczyna się z przytupem! Zapraszamy na spotkanie, które odbędzie się
-**19.01.2022 o godz. 19:00**. Zarezerwuj sobie miejsce już [dziś]! 
+{% include youtube.html id="6Gobw4O5nUA" title="12+ rad na początek i Q&A z ekspertami" %}
 
-Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ekspertów jak:
+JUGademy w 2022 roku rozpoczyna się z przytupem! Podczas pierwszego spotkania w 2022 roku będziemy 
+gościć takie ekspertki i ekspertów jak:
 - Adam Dubiel
 - Grzegorz Piwowarek
 - Jakub Gutkowski
 - Jakub Nabrdalik
 - Jakub Pilimon
-- Jarosław Pałka
 - Jarosław Ratajski
 - Magda Stożek
 - Mirosław Zelent
@@ -33,8 +32,6 @@ Podczas pierwszego spotkania w 2022 roku będziemy gościć takie ekspertki i ek
 Każde z nich będzie miało **5 minut, aby przekazać życiową lekcję dla początkujących
 programistek i programistów**. W tej niecodziennej konwencji chcemy dać Wam szansę
 czerpania z doświadczenia naszych gości pełnymi garściami.
-
-Rejestracja na wydarzenie na [Meetup]!
 
 ## Co czeka nas w 2022
 

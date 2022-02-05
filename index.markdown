@@ -12,7 +12,7 @@ image: assets/img/cover/index.png
 {% assign old_posts_size = new_posts | size %}
 
 Zobacz, co przed nami lub dowiedz się więcej o:
- - [planach na 2022 rok]
+ - [wyjątkowym spotkaniu na start 2022 roku i planach na cały rok](/start-2022)
 {% if new_posts_size > 0 %}- [nadchodzących prezentacjach](#nadchodzące-spotkania){% endif %}
  - [przeszłych prezentacjach](#przeszłe-prezentacje)
  - [nagrodach dla uczestników](#nagrody-dla-uczestników)
@@ -23,7 +23,6 @@ Zobacz, co przed nami lub dowiedz się więcej o:
 # Nadchodzące spotkania
 
 <div>
-    
     {% for meeting in new_posts %}
         {% include meeting.html meeting=meeting %}
     {% endfor %}
@@ -77,5 +76,3 @@ Do zobaczenia wkrótce!
 <script>
 (function(){var hash=window.location.hash;var matches={"#wprowadzenie-do-mongodb":"/spotkania/sezon-4/wprowadzenie-do-mongodb","#czysty-kod-to-wcale-nie-jest-takie-trudne":"/spotkania/sezon-4/czysty-kod-to-wcale-nie-jest-takie-trudne","#programowanie-funkcyjne-na-jvm":"/spotkania/sezon-4/programowanie-funkcyjne-na-jvm","#praca-z-danymi-w-apache-spark":"/spotkania/sezon-4/praca-z-danymi-w-apache-spark","#ogarnąć-git-a":"/spotkania/sezon-4/ogarnac-git-a","#reaktywne-aplikacje-od-podstaw":"/spotkania/sezon-4/reaktywne-aplikacje-od-podstaw","#wprowadzenie-do-rest-api":"/spotkania/sezon-4/wprowadzenie-do-rest-api","#kotlin-dlaczego-warto-spróbować-od-czego-zacząć":"/spotkania/sezon-4/kotlin-dlaczego-warto-sprobowac-od-czego-zaczac","#wprowadzenie-do-cassandry":"/spotkania/sezon-4/wprowadzenie-do-cassandry","#jednoosobowy-pair-programing-czyli-twoja-wydajność-w-intellij-idea":"/spotkania/sezon-4/jednoosobowy-pair-programming-czyli-twoja-wydajnosc-w-intellij-idea","#abstractqueuedsynchronizer-the-cornerstone-of-java-concurrency":"/spotkania/sezon-4/abstractqueuedsynchronizer-the-cornerstone-of-java-concurrency"};for(var i in matches){matches[encodeURI(i)]=matches[i];}if(matches.hasOwnProperty(hash)){window.location.replace(matches[hash])}})();
 </script>
-
-[planach na 2022 rok]: /start-2022
