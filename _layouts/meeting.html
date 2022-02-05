@@ -17,9 +17,7 @@ layout: jugademy
 {% endfor %}
 
 {% if page.video %}
-<div class="youtube-wrapper">
-  <iframe src="https://www.youtube.com/embed/{{page.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  {% include youtube.html id=page.video title=page.title %}
 {% endif %}
 
 {% if page.event %}
