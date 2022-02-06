@@ -6,6 +6,7 @@ old: false
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/cap-theorem-co-naprawde-trzeba-poswiecic.png
+event: 283749810
 ---
 
 Co to jest twierdzenie CAP? Czy po dwudziestu dwóch latach nadal jest aktualne? 
