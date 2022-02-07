@@ -23,9 +23,9 @@ layout: jugademy
 {% if page.event %}
   <p>
     {% if page.old %}
-      Zobacz spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">Meetup</a>. 
+      Zobacz spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">{% include meetup.html %}</a>. 
       {% else %}
-      Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">Meetup</a>!
+      Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ page.event }}/">{% include meetup.html %}</a>!
     {% endif %}
   </p>
 {% endif %}

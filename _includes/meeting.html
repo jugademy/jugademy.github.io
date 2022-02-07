@@ -16,7 +16,7 @@
     
     {% if include.meeting.event %}
     <p>
-        Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ include.meeting.event }}/">Meetup</a>!
+        Zapraszamy do zapisywania się na spotkanie na <a href="https://www.meetup.com/Poznan-Java-User-Group/events/{{ include.meeting.event }}/">{% include meetup.html %}</a>!
     </p>
     {% endif %}
 </section>

@@ -67,3 +67,11 @@ h2 > a {
         height: 100%;
     }
 }
+
+a > svg {
+    height: 1.5em;
+    display: inline-block;
+    max-width: none;
+    width: auto;
+    margin-bottom: -.5em;
+}
