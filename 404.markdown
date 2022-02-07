@@ -5,4 +5,4 @@ layout: jugademy
 
 # 404
 
-Nie znaleziono strony. Powrót na [stronę główną](/).
+Nie znaleziono strony.
