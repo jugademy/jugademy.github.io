@@ -2,7 +2,7 @@
 meeting_date: 9 lutego
 meeting_authors: [mateusz.byczkowski]
 title: CAP theorem - co naprawdę trzeba poświęcić?
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/cap-theorem-co-naprawde-trzeba-poswiecic.png
