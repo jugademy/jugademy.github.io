@@ -7,7 +7,7 @@ image: assets/img/cover/index.png
 
 
 {% assign new_posts = site.meetings | where: "old","false" %}
-{% assign old_post = site.meetings | where: "old","true" %}
+{% assign old_post = site.meetings | where: "old","true" | reverse %}
 {% assign new_posts_size = new_posts | size %}
 {% assign old_posts_size = new_posts | size %}
 
