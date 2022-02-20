@@ -1,6 +1,8 @@
+{% if include.author.hide != true %}
 <p>
     <span class="meeting-author">{{ include.author.name }}</span> 
     {% if include.author.bio %}
     &ndash; {{ include.author.bio | markdownify | remove: '<p>' | remove: '</p>' }}
     {% endif %}
 </p>
+{% endif %}

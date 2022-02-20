@@ -128,3 +128,7 @@ lukasz.chrzaszcz:
   name: Łukasz Chrząszcz
   bio: >
     programuje od 9 roku życia, a zawodowo od 8 lat. Team Leader odpowiedzialny za rozwój systemu Marketing Automation. Uwielbia drążyć w kodzie, żeby odkryć jak dokładnie coś działa, a potem podzielić się tym z innymi. Po godzinach tworzy bloga technicznego [chrzaszcz.dev](https://chrzaszcz.dev) i nałogowo czyta książki o soft skillach.
+
+dwanascie.ekspertow:
+  name: 12 ekspertów
+  hide: true
