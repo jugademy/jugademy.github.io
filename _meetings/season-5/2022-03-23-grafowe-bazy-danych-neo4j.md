@@ -4,6 +4,7 @@ meeting_authors: [przemyslaw.betkier]
 title: Grafowe bazy danych - Neo4j
 old: false
 layout: meeting
+image: assets/img/cover/grafowe-bazy-danych-neo4j.png
 categories: [sezon-5]
 ---
 
