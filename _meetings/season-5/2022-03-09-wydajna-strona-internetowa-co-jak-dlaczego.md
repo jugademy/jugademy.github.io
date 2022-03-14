@@ -2,7 +2,7 @@
 meeting_date: 9 marca
 meeting_authors: [mateusz.krzeszowiak]
 title: Wydajna strona internetowa - co, jak, dlaczego?
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/wydajna-strona-internetowa-co-jak-dlaczego.png
