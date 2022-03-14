@@ -1,3 +1,6 @@
 <div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/{{include.id}}" title="{{include.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe 
+        src="https://www.youtube.com/embed/{{include.id}}?autoplay=1"
+        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:2em;text-align:center;font:48px/2 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/{{include.id}}?autoplay=1><img src=https://img.youtube.com/vi/{{include.id}}/maxresdefault.jpg alt='{{include.title}}'><span>▶</span></a>"
+        title="{{include.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
