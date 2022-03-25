@@ -2,11 +2,12 @@
 meeting_date: 23 marca
 meeting_authors: [przemyslaw.betkier]
 title: Grafowe bazy danych - Neo4j
-old: false
+old: true
 layout: meeting
 image: assets/img/cover/grafowe-bazy-danych-neo4j.png
 categories: [sezon-5]
 event: 284695470
+video: 8N3R-eL3azg
 ---
 
 Ogromna część projektów lub usług korzysta z jakiegoś źródła danych - zazwyczaj jest nim relacyjna baza jak Postgres lub MySQL, przechowująca je w formie tabel. W niektórych przypadkach architekci decydują się na użycie baz zorientowanych na dokumenty, jak na przykład MongoDB, jeśli zależności między informacjami nie grają istotnej roli, a projektowany system powinien być bardziej elastyczny. Poza tymi dwoma najczęściej stosowanymi rozwiązaniami istnieje jeszcze kilka innych, a jednym z nich jest utrwalanie informacji w postaci grafu, za pomocą węzłów i krawędzi.
