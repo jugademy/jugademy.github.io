@@ -5,6 +5,7 @@ title: Wprowadzenie do Kubernetes
 old: false
 layout: meeting
 categories: [sezon-5]
+image: assets/img/cover/wprowadzenie-do-kubernetes.png
 ---
 
 Prezentacja będzie wprowadzeniem w temat Kubernetesa dla osób początkujących, nie mających lub posiadających bardzo małe doświadczenie w tym temacie.

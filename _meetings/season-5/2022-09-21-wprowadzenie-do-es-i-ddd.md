@@ -5,6 +5,7 @@ title: Wprowadzenie do Event Stormingu i DDD
 old: false
 layout: meeting
 categories: [sezon-5]
+image: assets/img/cover/wprowadzenie-do-es-i-ddd.png
 ---
 
 Jeżeli kiedykolwiek miałeś problem z utrzymaniem systemu który jest złożony a nowe wymagania biznesowe ciągle dochodzą lub rozmowy z właścicielami biznesowymi nie należą do najłatwiejszych.

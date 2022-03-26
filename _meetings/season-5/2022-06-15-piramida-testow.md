@@ -5,6 +5,7 @@ title: Piramida testów
 old: false
 layout: meeting
 categories: [sezon-5]
+image: assets/img/cover/piramida-testow.png
 ---
 
 Umiejętność stosowania piramidy testów jest niezbędna dla dobrych programistów. 

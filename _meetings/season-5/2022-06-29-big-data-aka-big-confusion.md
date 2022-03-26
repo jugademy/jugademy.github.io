@@ -5,6 +5,7 @@ title: Big Data AKA Big Confusion
 old: false
 layout: meeting
 categories: [sezon-5]
+image: assets/img/cover/big-data-aka-big-confusion.png
 ---
 
 Data Engineer, Data Scientist, Machine Learning Specialist czy po prostu Analityk? Czym te pozycje się różnią? W jakich technologiach pracuje się z danymi? 

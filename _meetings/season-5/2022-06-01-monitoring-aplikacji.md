@@ -5,6 +5,7 @@ title: Co robi moja aplikacja kiedy nie patrzę?
 old: false
 layout: meeting
 categories: [sezon-5]
+image: assets/img/cover/monitoring-aplikacji.png
 ---
 
 Opowiem o tym, jak możemy sprawdzić co się dzieje z naszymi usługami i jakie są dobre praktyki SRE.
