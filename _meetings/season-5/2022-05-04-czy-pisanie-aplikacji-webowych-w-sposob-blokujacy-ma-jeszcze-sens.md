@@ -1,5 +1,5 @@
 ---
-meeting_date: 4 maja
+meeting_date: TBA
 meeting_authors: [piotr.ceranek]
 title: Czy pisanie aplikacji webowych w sposób blokujący ma jeszcze sens?
 old: false

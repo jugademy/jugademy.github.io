@@ -1,5 +1,5 @@
 ---
-meeting_date: 18 maja
+meeting_date: TBA
 meeting_authors: [marcin.skalski]
 title: Wprowadzenie do Service Mesh
 old: false

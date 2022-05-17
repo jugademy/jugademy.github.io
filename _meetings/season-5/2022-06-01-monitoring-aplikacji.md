@@ -1,5 +1,5 @@
 ---
-meeting_date: 1 czerwca
+meeting_date: TBA
 meeting_authors: [krzysztof.skitek]
 title: Co robi moja aplikacja kiedy nie patrzę?
 old: false
