@@ -1,5 +1,5 @@
 ---
-meeting_date: 15 czerwca
+meeting_date: TBA
 meeting_authors: [waldemar.panas]
 title: Piramida testów
 old: false
