@@ -1,5 +1,5 @@
 ---
-meeting_date: 29 czerwca
+meeting_date: TBA
 meeting_authors: [lukasz.sciga]
 title: Big Data AKA Big Confusion
 old: false
