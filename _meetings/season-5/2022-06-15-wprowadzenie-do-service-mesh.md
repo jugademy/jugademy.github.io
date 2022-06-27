@@ -2,7 +2,7 @@
 meeting_date: 15 czerwca
 meeting_authors: [marcin.skalski]
 title: Wprowadzenie do Service Mesh
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/wprowadzenie-do-service-mesh.png
