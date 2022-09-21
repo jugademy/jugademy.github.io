@@ -1,5 +1,5 @@
 ---
-meeting_date: 21 września
+meeting_date: 12 października
 meeting_authors: [krystian.adamski]
 title: Wprowadzenie do Event Stormingu i DDD
 old: false
@@ -8,8 +8,7 @@ categories: [sezon-5]
 image: assets/img/cover/wprowadzenie-do-es-i-ddd.png
 ---
 
-Jeżeli kiedykolwiek miałeś problem z utrzymaniem systemu który jest złożony a nowe wymagania biznesowe ciągle dochodzą lub rozmowy z właścicielami biznesowymi nie należą do najłatwiejszych.
-To moja prezentacja może Ci pomóc. 
-
-Na początek spróbujemy odkryć reguły biznesowe pewnej domeny z użyciem Event Stormingu. Następnie podzielimy system na mniejsze i prostsze części. 
-A na końcu zobaczymy jak można go zaimplementować z w taki sposób aby największa wartość czyli logika biznesowa była zamknięta w centrum aplikacji.
+Według Alberto Brandoliniego "To nie wiedza ekspertów trafia na produkcję, a jej (nie)zrozumienie przez programistów". 
+A więc jak szybko zbudować wspólne i kompletne zrozumienie procesu biznesowego? Jak proces podzielić na mniejsze części?
+Z pomocą przychodzi technika EventStormingu. Na początek spróbujemy wspólnie odkryć reguły biznesowe pewnej domeny z użyciem Event Stormingu, 
+wcielając się w ludzi z biznesu. Następnie podzielimy system na mniejsze i prostsze części z użyciem technik Domain-Driven Design.
