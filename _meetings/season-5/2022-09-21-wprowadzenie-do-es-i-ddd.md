@@ -10,5 +10,6 @@ image: assets/img/cover/wprowadzenie-do-es-i-ddd.png
 
 Według Alberto Brandoliniego "To nie wiedza ekspertów trafia na produkcję, a jej (nie)zrozumienie przez programistów". 
 A więc jak szybko zbudować wspólne i kompletne zrozumienie procesu biznesowego? Jak proces podzielić na mniejsze części?
+
 Z pomocą przychodzi technika EventStormingu. Na początek spróbujemy wspólnie odkryć reguły biznesowe pewnej domeny z użyciem Event Stormingu, 
 wcielając się w ludzi z biznesu. Następnie podzielimy system na mniejsze i prostsze części z użyciem technik Domain-Driven Design.
