@@ -1,5 +1,5 @@
 ---
-meeting_date: 5 października
+meeting_date: TBA
 meeting_authors: [lukasz.chrzaszcz]
 title: Wprowadzenie do Apache Kafka
 old: false
