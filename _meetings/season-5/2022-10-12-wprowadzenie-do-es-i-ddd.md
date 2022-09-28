@@ -5,6 +5,7 @@ title: Wprowadzenie do Event Stormingu i DDD
 old: false
 layout: meeting
 categories: [sezon-5]
+event: 288646814
 image: assets/img/cover/wprowadzenie-do-es-i-ddd.png
 ---
 
