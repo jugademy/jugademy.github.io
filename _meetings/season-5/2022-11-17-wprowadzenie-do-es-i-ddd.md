@@ -1,5 +1,5 @@
 ---
-meeting_date: 12 października
+meeting_date: 17 listopada
 meeting_authors: [krystian.adamski]
 title: Wprowadzenie do Event Stormingu i DDD
 old: false
