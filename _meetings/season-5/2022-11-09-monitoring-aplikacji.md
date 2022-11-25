@@ -2,10 +2,11 @@
 meeting_date: 9 listopada
 meeting_authors: [krzysztof.skitek]
 title: Co robi moja aplikacja kiedy nie patrzę?
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/monitoring-aplikacji.png
+event: 289495224
 ---
 
 Opowiem o tym, jak możemy sprawdzić co się dzieje z naszymi usługami i jakie są dobre praktyki SRE.

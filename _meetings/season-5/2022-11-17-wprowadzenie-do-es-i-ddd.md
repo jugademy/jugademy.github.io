@@ -2,10 +2,10 @@
 meeting_date: 17 listopada
 meeting_authors: [krystian.adamski]
 title: Wprowadzenie do Event Stormingu i DDD
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
-event: 288646814
+event: 289494837
 image: assets/img/cover/wprowadzenie-do-es-i-ddd.png
 ---
 
@@ -14,3 +14,6 @@ A więc jak szybko zbudować wspólne i kompletne zrozumienie procesu biznesoweg
 
 Z pomocą przychodzi technika EventStormingu. Na początek spróbujemy wspólnie odkryć reguły biznesowe pewnej domeny z użyciem Event Stormingu, 
 wcielając się w ludzi z biznesu. Następnie podzielimy system na mniejsze i prostsze części z użyciem technik Domain-Driven Design.
+
+Dodatkowe materiały: 
+[akrystian/ddd-by-examples-rental-company](https://github.com/akrystian/ddd-by-examples-rental-company).

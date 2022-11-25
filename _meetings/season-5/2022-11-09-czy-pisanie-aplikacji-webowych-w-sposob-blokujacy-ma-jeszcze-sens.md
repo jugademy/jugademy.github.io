@@ -2,10 +2,11 @@
 meeting_date: 9 listopada
 meeting_authors: [piotr.ceranek]
 title: Czy pisanie aplikacji webowych w sposób blokujący ma jeszcze sens?
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/czy-pisanie-aplikacji-webowych-w-sposob-blokujacy-ma-jeszcze-sens.png
+event: 289495224
 ---
 
 Systemy informatyczne od zawsze musiały odpowiadać jak najszybciej. Jedna dziesiąta sekundy to dla użytkownika poczucie bezpośredniego manipulowania aplikacją. Jedna sekunda pozwala mu nadal niezakłócenie nawigować po interfejsie. Inny czas odpowiedzi jest nieodpowiedni. Dzisiejsze programy od początku powinny działać w sposób nieblokujący. 
