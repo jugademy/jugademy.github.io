@@ -2,10 +2,12 @@
 meeting_date: 15 grudnia
 meeting_authors: [dariusz.zbyrad]
 title: Testowanie architektury - kiedy tradycyjne podejście do testów to za mało
-old: false
+old: true
 layout: meeting
 categories: [sezon-5]
 image: assets/img/cover/testowanie-architektury.png
+event: 290056092
+video: HIw-c7iyDog
 ---
 
 Piszesz czysty kod, projekt posiada testy jednostkowe, integracyjne i E2E zgodnie z piramidą testów, 
