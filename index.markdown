@@ -12,7 +12,6 @@ image: assets/img/cover/index.png
 {% assign old_posts_size = new_posts | size %}
 
 Zobacz, co przed nami lub dowiedz się więcej o:
- - [wyjątkowym spotkaniu na start 2022 roku i planach na cały rok](/start-2022)
 {% if new_posts_size > 0 %}- [nadchodzących prezentacjach](#nadchodzące-spotkania){% endif %}
  - [przeszłych prezentacjach](#przeszłe-prezentacje)
  - [nagrodach dla uczestników](#nagrody-dla-uczestników)
